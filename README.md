@@ -1,3 +1,4 @@
+
 # e-commerce-web-scraper
 
 **File** : *_amazon_search_image_scraper.py_*<br>
